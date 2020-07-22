@@ -1,4 +1,4 @@
-Toxicity classification by minimizeing unintended bias
+Toxicity classification by minimizing unintended bias
 -------------------------------------------------------
 
 In this Blog I will try to explain a Toxicity polarity problem solution implementation for text i.e. basically a text based binary classification machine learning problem for which I will try to implement some classical and deep learning models. 
